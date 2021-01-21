@@ -18,7 +18,7 @@ file.
 
 Let's take a look:
 
-```ruby
+```rubygit@github.com:gabriel-demes/orms-mapping-database-records-to-ruby-objects-lab.git
 require 'sqlite3'
 require_relative '../lib/student'
 
